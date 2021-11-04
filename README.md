@@ -1,5 +1,5 @@
 # BlogsToFollow
-Complete List of Cloud Community Bloggs by various MVP, MCT.
+Complete List of Cloud Community Bloggs/Video Content by various MVP, MCT, Techs.
 
 Azure Technical Architecture [https://docs.microsoft.com/en-us/azure/architecture/](https://docs.microsoft.com/en-us/azure/architecture/)
 
